@@ -1,7 +1,7 @@
 
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 
-getgenv().Key = "67d45a50a3dbc01e809746fe"
+getgenv().Key = "8c7a18eb69c1d6624e1b1768"
 
 getgenv().Config = {
 
@@ -21,7 +21,7 @@ getgenv().Config = {
     },
     ["dont Buy Seed low Price"]   = {
         ["Enabled"] = true,
-        ["Money"]   = 5000050000
+        ["Money"]   = 1000000
     },
     ["Auto Delete Seed Planted"]  = {
         ["Enabled"]                 = true,
