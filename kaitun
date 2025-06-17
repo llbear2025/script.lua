@@ -54,10 +54,10 @@ getgenv().Config = {
     ["Note"] = "daikk hub",
     ["Pet Mode"] = {
         ["Sell Pet"] = false,
-        ["Equip Pet"] = false,
+        ["Equip Pet"] = true,
         ["Name Pet Equip"] = {
-            ["Night Owl"] = true,
-            ["Chicken"] = true
+            ["Brown Mouse"] = true,
+            ["Tarantula Hawk"] = true
         },
         ["Rarity"] = { -- Rarity Sell Pet
             ["Common"] = true,
