@@ -12,7 +12,7 @@ getgenv().Config = {
     ["Dont Open Pack"] = false,
     ["Dont Use Flower Seed Pack"] = true, -- If u Enable Crafters Seed Pack pls enable this
     ["Seed"] = {
-        ["Bamboo"] = 5,
+        ["Bamboo"] = 1,
     },
     ["FPS"] = 3,
     ["Buy Egg"] = true,
@@ -27,7 +27,7 @@ getgenv().Config = {
     ["Honey Item"] = {
         ["Nectarine"] = false,
         ["Flower Seed Pack"] = true,
-        ["Honey Sprinkler"] = false,
+        ["Honey Sprinkler"] = true,
         ["Bee Egg"] = true,
         ["Pollen Radar"] = false,
         ["Nectar Staff"] = false,
@@ -57,7 +57,10 @@ getgenv().Config = {
         ["Equip Pet"] = true,
         ["Name Pet Equip"] = {
             ["Brown Mouse"] = true,
-            ["Tarantula Hawk"] = true
+            ["Tarantula Hawk"] = true,
+            ["Owl"] = true,
+            ["Blood Owl"] = true,
+            ["Cooked Owl"] true
         },
         ["Rarity"] = { -- Rarity Sell Pet
             ["Common"] = true,
